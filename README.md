@@ -40,7 +40,7 @@ The state index can be accessed through **player.state_index**. \
 ### State Properties
 **is_grounded()** - Returns a boolean value of if the player is on the ground \
 **is_aerial()** - Returns a boolean value of if the player is in air \
-**vulnarable()** - Returns a boolean value of if the player is vulnerable. Used by dodge to create iframes \
+**vulnerable()** - Returns a boolean value of if the player is vulnerable. Used by dodge to create iframes \
 
 ### Parameters
 **move_speed** = 6.75 \
